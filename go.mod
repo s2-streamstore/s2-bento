@@ -2,7 +2,7 @@ module github.com/s2-streamstore/s2-bento
 
 go 1.22.0
 
-require github.com/warpstreamlabs/bento v1.4.1-0.20250203192340-07367c3674a5
+require github.com/warpstreamlabs/bento v1.4.1-0.20250204134805-25f8552dfae7
 
 require (
 	cel.dev/expr v0.19.0 // indirect
@@ -275,7 +275,7 @@ require (
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/s2-streamstore/optr v1.1.0 // indirect
-	github.com/s2-streamstore/s2-sdk-go v0.5.0 // indirect
+	github.com/s2-streamstore/s2-sdk-go v0.5.1 // indirect
 	github.com/segmentio/asm v1.2.0 // indirect
 	github.com/segmentio/encoding v0.4.0 // indirect
 	github.com/segmentio/ksuid v1.0.4 // indirect
